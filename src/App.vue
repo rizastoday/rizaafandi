@@ -5,6 +5,20 @@ import Link from "./components/Link.vue";
 
 useHead({
   title: "Riza Afandi",
+  meta: [
+    {
+      name: "description",
+      content: "My Personal Website",
+    },
+    {
+      name: "robots",
+      content: "noindex,nofollow",
+    },
+    {
+      name: "author",
+      content: "Riza Afandi",
+    },
+  ],
 });
 </script>
 
