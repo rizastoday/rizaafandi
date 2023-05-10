@@ -36,8 +36,8 @@ const openLinkedIn = () => {
       <hr class="border-gray-500" />
       <p>I'm a Fullstack Web Developer</p>
 
-      <p class="mt-32 lg:text-2xl">Stay Connected</p>
-      <div class="flex flex-row gap-3 mt-2">
+      <p class="mt-32 lg:text-2xl">Let's Connect</p>
+      <div class="flex flex-row gap-3 mt-2 text-2xl">
         <Icon icon="mdi:github" class="cursor-pointer" @click="openGithub" />
         <Icon icon="mdi:gmail" class="cursor-pointer" @click="openMail" />
         <Icon
