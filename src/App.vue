@@ -11,10 +11,6 @@ useHead({
       content: "My Personal Website",
     },
     {
-      name: "robots",
-      content: "noindex,nofollow",
-    },
-    {
       name: "author",
       content: "Riza Afandi",
     },
