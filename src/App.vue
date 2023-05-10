@@ -25,7 +25,7 @@ const openLinkedIn = () => {
   >
     <div class="w-5/6 md:w-4/5 lg:w-3/5 text-left text-xl lg:text-3xl">
       <p>Hi👋🏻</p>
-      <p class="text-4xl md:text-5xl lg:text-7xl">
+      <p class="text-3xl md:text-5xl lg:text-7xl">
         It's me
         <span
           class="text-transparent bg-clip-text bg-gradient-to-r font-bold dark:font-normal from-blue-700 to-green-400 dark:from-purple-600 dark:to-yellow-600 selection:bg-yellow-200 selection:text-white dark:selection:bg-white dark:selection:text-yellow-600"
